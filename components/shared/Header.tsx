@@ -9,4 +9,4 @@ const Header = ({ title, subtitle }: { title: string, subtitle?: string }) => {
   )
 }
 
-export default Header
+export default Header;
